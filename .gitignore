@@ -1,0 +1,8 @@
+node_modules
+client/css/dist
+client/css/device-mockups
+public
+.tmp
+.idea
+npm-debug.log
+coverage
